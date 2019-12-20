@@ -1,0 +1,85 @@
+
+*Dec 20. <-- Articles will be renamed into WaC "Writing Along the Curriculum"
+
+1) - https://guides.github.com/activities/hello-world/
+
+First guide on git. The very manual, learned to created repositories, pull, merge and edit changes.
+I can call it the very basic training of git, the barebones. More than 10 minutes to say. 
+I took my time and ended up in a half an hours, worth, course. Thats me i guess.
+Also the first Article. Well.
+
+2) - https://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide
+
+Began reading it from a google result, it turned out to be as advertised, practical.
+It's rich, and beginner friendly. I read about half of it, it contains alot of info,
+on many aspects of git, i am keeping it arround as a reference bookmark. usefull.
+
+3) - https://guide.freecodecamp.org/git
+
+Most usefull so far, i read through it, got an idea of the configutration, basic commands, 
+learned some more advnaced commands, and will help me with anki this one.
+
+4) - https://code.visualstudio.com/docs/editor/versioncontrol
+
+How i learned to configure git and use it from within  my computer and to edit files with VsCode.
+
+5) - https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/
+
+Well, usefull but cant follow it via order. Arround half of the guide, it tells you to add an sample.html 
+via commands, you also need to create it in the local area, were you cloned the repository.
+At this point i got stuck, began reading other material, even asked in stackoverflow, 
+eventually, the solution was found and i was able to continiou reading this guide.
+Good one... but...none the less, good one.
+
+6) - https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-
+positively-must-know-about-unicode-and-character-sets-no-excuses/
+
+I dont know if there is a bare minimum in anything, and i dont know what the heck encodings is.
+That changed after the article. Well it is abit tech savy, with all the byte theory behind it.
+But it makes sense, i understood what encoding is, how, when and where is used, got some references
+for encodings, highly usefull to have arround. The most important i found out, was the the know how
+to fix a page that has encoding problems, common problems, the reason behind it (Yeap you guessed it bytes)
+and how to specify encodings in the page. In code, thats right.
+Bare minimums Achieved.
+
+7) - https://www.w3.org/International/questions/qa-what-is-encoding
+8) - https://www.w3.org/International/getting-started/characters
+9) - https://www.w3.org/International/tutorials/tutorial-char-enc/
+
+W3.org, quality site, the tutorials well written all those i have used so far. Needles to say, one link
+lead to another, and maybe there are four tutorials. Anyway, those got a bit techie, but all in all, they 
+cover fonts, repertois, sets, appliance in CSS and HTML, escapes, ASCII, BOM Byte Order Mark. Nice more on
+encodings later.
+
+10)- Creative Writing by Margaret Atwood.
+
+Now that was a course i enjoyed not alone. Arround 4 hours. Covers the aspects of how to write, the
+perspectives of the story, not so basic, i will review it again and try to understnad it a bit better.
+
+11) - What you need before you start Programming.
+
+Not much, mostly a motivational video, i watcched it with the seek bar on the move. Anyway key points, 
+learned how to create a system of learning, how to seperate skills from what i need to learn and i want 
+to learn. Well helped at least. I though it was about the tools and the enviroment you need before the 
+actual thing.
+
+12) - https://lab.github.com/githubtraining/introduction-to-github
+
+Well a tutorial on git, and not only, many languages. Finished the first day, learned about collaborating
+issue fixing and takin over, sorry my mind stoped. on todo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
