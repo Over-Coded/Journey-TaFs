@@ -6,22 +6,33 @@ articles.
 1) - https://guides.github.com/activities/hello-world/
 
 First guide on git. The very manual, learned to created repositories, pull, merge and edit changes.
-I can call it the very basic training of git, the barebones. More than 10 minutes to say. 
-I took my time and ended up in half an hour's worth of course. That's me i guess.
-Also to note that the guide is based on website control, no command line support.
-Also the first Article. Well.
+I can call it the very basic training of git, the barebones. More than 10 minutes needles to say. 
+I took my time and ended up in half an hour's worth of course. That's me i guess. Also to note that 
+the guide is based on website control, no command line support. Also the first Article. Well.
 
 2) - https://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide
 
-Began reading it from a google result, it turned out to be as advertised, practical.
-It's rich and beginner friendly. I read about half of it, it contains a lot of info,
-on many aspects of git, including many advnaced. Will keep it around as a reference 
-bookmark. useful.
+Second guide, a google result, it turned out to be practical as advertised. But the order is a bit
+weird, i went from configurating the git to searching terms i had no clue what they were. Well all
+in all it is rich and content friendly. It is not for me at this point, so i will keep it around as
+a reference and for random questions. Well as of now, i have visited this guide many times, i have 
+add that it helped me a great many times. Not only the guide itself, but also the comments, you can
+find a great deal of resources, answering some inquisitive minds.
 
 3) - https://guide.freecodecamp.org/git
 
-Most useful so far, i read through it, got an idea of the configuration, basic commands, 
-learned some more advnaced commands, and will help me with anki this one.
+Now this is what i call entry level, the most usefull guide so far. I can feel entry level now, we 
+got some basic concepts and 101s. Git is a distributed control system that helps multiple users or
+coders, have access to a file or program (hosted online on repositories) and modify it. Plain? Simple?
+Yes but no so much. What really shines is in the inner workings, and in this git-case, the impecable
+history, comparison to the master. Imagine 100 people proof reading the same page on the excact same
+time, on diffrent places. After they are done they sent the pages to the author to review and accept
+or refuse the changes. This is git, takes all pages, compares the changes, checks the reasons for the
+changes, merges the changes with the orignal page, and voilla 1 page merged with 100+ corrections.
+Ending in a clandestine document passed by 100 set of eyes, and also a history behind it, all the 
+changes that it went from the orignal state, along with the reasons for the edit, the date/hour and
+the author of the changes. All that in real time, connecting literally all of the world.
+Clone - Modify - Stage - commit - push.
 
 4) - https://code.visualstudio.com/docs/editor/versioncontrol
 
@@ -72,7 +83,8 @@ actual thing.
 Well a tutorial on git, and not only, many languages. Finished the first day, learned about collaborating
 issue fixing and taking over, sorry my mind stopped. on todo.
 
-
+a) - https://ohshitgit.com
+Honorable mention
 
 
 
