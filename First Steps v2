@@ -1,8 +1,9 @@
 December 19.
-There have been some changes so i decided to create a new file, 
-in order to clarify and beautify it.
-Moving houses, how much time can it take...
-it fits for now still collecting info. 
+
+There have been some changes and so the creation of a new file is a must.
+In order to clarify and beautify it, and attempt to make it structured.
+Still in the prosess of changing houses, it's convienient as i am still in
+the data collection. Lets begin. 
 
 *Bookmarks have been updated.   <-- TBI - To Be Implemented.
 *Accounts and S.sites updated.  <--Blog, created. Also TBI.
@@ -31,21 +32,24 @@ e) - Pick next Skill to study. -for now.
 
 
 December 20                                 
-                                            <intro>
-Slow days, and also dealing with personal issues. Gives me time to reading soft skills, concepts, 
-also learn the sites, and online tools i will be constanly using. stackoverflow, github, various 
-learn sites. My reference lists, online and on my local drive. I am also getting familiar with my
-new software, VS code, VS studio, git bash. Getting into the Web Developer scene, is something life 
-changing. New skills, mindset, enviroment, new, hobbies. And the devil is in the details.
-                                            <intro>
+<intro>
+    Slow days, and also in the proccess of dealing with personal issues. Cant fight it so i am using
+the time reading about soft skills, concepts and improving the already excisting facts.
+Also taking time to grow accostumed to the sites and all online tools and resources i will be using.
+stackoverflow, github, git, various learn sites, online reference lists and local enviroment tools.
+Getting to be a web developer from scratch, is on its own daunting. And is my firm belief, that despite
+the tremendous amount of resources, online lessons and most importantly, the fast learning platforms that
+excist out, that this learning curve one must take it slow, structurized and in steps, in order to be good,
+and have a chance of surviving an ever evolving technology.
+<intro>
 
-                                            <changes>
+<changes>
     * We need to keep a certain stereotype composition of this log. 
     Otherwise it will be impossible for anyone reading this, myself
     included, to make any sense of it at all.
         <intro> A small catch up. Day, event based.
         <changes>  as seen * each asterisk
-        <WaC> Lessons, courses, etc. For Articles.
+        <WaC> Lessons, courses, etc. For Article reference help.
         <Skillset> All the skills, concepts, etc. Obtained or Wip.
         <todo> Left to work on.
     * The bookmarks are done. Following the reading material. All that 
@@ -83,4 +87,40 @@ changing. New skills, mindset, enviroment, new, hobbies. And the devil is in the
         practises, training, routines.
         check the mail as well.
         reverese engineer the language and check each concept apart, move to the next.
-                                            <todo>
+        sitemaping, wireframing planning a website
+        plan media, day, activitys
+<todo>
+
+23 December
+<intro>
+    Finally everything has been sorted and the house date has been set. And the next came up, 
+Christmass and with it, work days. Having the luxury and priviledges, to have a night job, 
+comes the changes in work days. Well inside the week, in the meantime we are reading the 
+last courses again, setting the enviroment and more. Without further ado (....."about the snow
+elves"... reference to a mod from, skyrim if i am not mistaken) the changes.
+<changes>
+    *Everything has been refactored inside this repository.
+    *The blog has been updated, and the first posts are created.
+    *facebook and Blogger Connected.
+    *Roadmap Implemented.
+    *Bookmarks Implemented.
+    *Flow of infomation implemented.
+    *Change log infastructure changed.
+    *New Software, Atom, Atom Nighty, Git Extensions, VIm, Git Desktop.
+    *Anki installed and is ready to flash card us.
+<waC>
+    We will redo the last. Due to Blog.
+<skillset>
+    *Git
+    *github
+    *Character Encodings
+    *Atom, Code Editors.
+    *Touch typing
+    *Blog
+    *Writing
+<todo>
+    *Blog, check abouts adds and add sense.
+    *Promote this page.
+    *Redo all articles.
+    *Implement a file for containing todos, toReads and all the riff raff. <-- Inside the About me Dir.
+    *Create a timetable of activities.
