@@ -16,66 +16,71 @@ Second guide, a google result, it turned out to be practical as advertised. But 
 weird, i went from configurating the git to searching terms i had no clue what they were. Well all
 in all it is rich and content friendly. It is not for me at this point, so i will keep it around as
 a reference and for random questions. Well as of now, i have visited this guide many times, i have 
-add that it helped me a great many times. Not only the guide itself, but also the comments, you can
-find a great deal of resources, answering some inquisitive minds.
+added that it helped me a great many times. Not only the guide itself, but also the comments, you can
+find a great deal of resources, answering to some more inquisitive minds.
 
 3) - https://guide.freecodecamp.org/git   #2 Starter 2nd
 
-Now this is what i call entry level, the most usefull guide so far. I can feel entry level now, we 
+Now this is what i call entry level, the most useful guide so far. I can feel entry level now, we 
 got some basic concepts and 101s. Git is a distributed control system that helps multiple users or
-coders, have access to a file or program (hosted online on repositories) and modify it. Plain? Simple?
-Yes but no so much. What really shines is in the inner workings, and in this git-case, the impecable
-history, comparison to the master. Imagine 100 people proof reading the same page on the excact same
-time, on diffrent places. After they are done they sent the pages to the author to review and accept
-or refuse the changes. This is git, takes all pages, compares the changes, checks the reasons for the
-changes, merges the changes with the orignal page, and voilla 1 page merged with 100+ corrections.
-Ending in a clandestine document passed by 100 set of eyes, and also a history behind it, all the 
-changes that it went from the orignal state, along with the reasons for the edit, the date/hour and
-the author of the changes. All that in real time, connecting literally all of the world.
+coders have access to a file or program (hosted online on repositories) and modify it. Plain? Simple?
+Yes but not so much. What really shines is in the inner workings, and in this git-case, the impeccable
+history, and logging, containing date, time changes and comments. Imagine 100 people proof reading the 
+same page on the excact same time, on different places. After they are done they send the pages to the 
+author to review and accept or refuse the changes. This is git, takes all pages, compares the changes, 
+checks the reasons for the changes, merges the changes with the orignal page, and voila 1 page merged 
+with 100+ corrections. Ending in a clandestine document passed by 100 set of eyes, and also a history
+behind it, all the changes that it went through from the orignal state, along with the reasons for the edit, 
+the date/hour and the author of the changes. All that in real time, connecting literally all of the world.
 Clone - Modify - Stage - commit - push. Five words, is all i have.
 
 4) - https://code.visualstudio.com/docs/editor/versioncontrol   #3 Basic after some VScode Tut.
 
-This was one more step up, inside the basics always. We delved inside the VSCode, the text editor
+This was one more step up, inside the basics always. We dwelved inside the VSCode, the text editor
 of choice, more on that later, there are over 6 lessons to be covered here. Some basic integration
 is not bad to know. So all in all our editor of choice has all the functions already, just some 
-configurations. New introduction was the extensions inside the editor, more as we go there. For the
-beign, Github Pull requests, it allows you to proccess and accept pull requests from within our IDE.
-Also now we see, in the status bar bellow the text editor, the username we have inside GitHub. another
-new tool to have arround is the Azure DevOps. Another online host of personal repositories, wich connects
+configurations. New introduction was the extensions inside the editor, more as we go there. For the time
+being, "Github Pull requests" the extension, it allows you to proccess and accept pull requests from within 
+our IDE.
+Also now we see, in the status bar below the text editor, the username we have inside GitHub. another
+new tool to have around is the Azure DevOps. Another online host of personal repositories, which connects
 perfectly with your github account, and your Microsoft account. VsCode + Github + Azure Devops. before
-the question "why another one like GitHub?", personaly i think it will have its uses. We will keep it 
-arround and see in time. Could be a Gem in the long run, or a powerfull portable solution, time will tell.
+the question "why another one like GitHub?", personally i think it will have its uses. We will keep it 
+around and see in time. Could be a Gem in the long run, or a powerful portable solution, time will tell.
 I wish i had some training in VScode, waiting for another chair, my house and my multi-monitor setup.
 
 5) - https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/   #4 Basics Done.
 
 Well, useful but i could not follow it via the correct order. Around half of the guide the instructions
-tells you to add a sample.html all cool, but the surprise came when you actually have to create it first,
+tells you to add a sample.html. All cool, but the surprise came when you actually have to create it first,
 inside the local repo directory. Yeah, welcome to the frustration, the newbie got stymied. After a good 
 day searching the most creative key words ever, i asked in the QaA cumminity. Namely Stack Overflow, a 
-specialized central to ask anything programming. There are communitys about every subject inside Stack 
+specialized central to ask anything programming-wise. There are communities about every subject inside Stack 
 Exchange, the mother site of QaAs. Wanna ask something about something? Go there, first choice.
 So after a question, some edits, some more searching, i was tinkering inside bash and an error came up.
 Searching about it, came to answer my own question and sove all my problems with git and that bash.
 Ending my frustration and the tutorial. Coding is all about experimenting, asking, problem solving,
-and using communitys. So i have a feeling that today we did all of that. Mission accomplished and some 
+and using communities. So i have a feeling that today we did all of that. Mission accomplished and some 
 extra, "https://github.com/firstcontributions/first-contributions". This little gem, provided us with
-the oumpf we needed, and also supplement this course lovely. Pulling a repo, accepting an issue and
-solving it, pushing and getting a pull request, waiting for acceptance of edits, and thous making the
-first active contribution ever. I wouldd say at this point that we completed the basics, with git, and
-that now we need more specialized knowledge, more on skillset.
+the umpf we needed, and also supplemented this course lovely. Pulling a repo, accepting an issue and
+solving it, pushing and getting a pull request, waiting for acceptance of edits, and thus making the
+first active contribution ever. I would say at this point that we have completed the basics, with git, and
+that we now need more specialized knowledge, more on skillset.
 
 6) - https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-
 positively-must-know-about-unicode-and-character-sets-no-excuses/
 
-I dont know if there is a bare minimum in anything, and i dont know what the heck encodings is.
-That changed after the article. Well it is a bit tech savvy, with all the byte theory behind it.
-But it makes sense, i understood what encoding is, how, when and where it is used, got some references
-for encodings, highly useful to have around. The most important i found out, was the the know how
-to fix a page that has encoding problems, common problems, the reason behind it (Yeap, you guessed it - bytes)
-and how to specify encodings in the page. In code, that's right.
-Bare minimums Achieved.
+Well a rather funky tutorial, has taste of humour that might not apeal to everyone. I dont know if there
+is a bare minimum in anything, and i dont know what the heck encodings is. But joel says he can rectify
+that, and trust me he does. It had some techines iniside i cant say, but skiping past the terms and a bit
+math, i got it. How from ASCII we went to the Oem and later to Unicode. Speaking of witch unicode was the 
+attempt to unify all codes. All letters in unicode are assigned to an id, named code point. Eventually all
+words are a set of code points. Now on to encoding, first the Byte Order Mark, witch adds an EF or FF to the
+code point, telling you if its up in the memory or low. Also UTF-8 with 1 byte storage on 8 bytes. UTF-7, 
+UCS-4 and plenty. After reaching the end of Joel's guide, we know what encoding is, how to use it and how 
+to effectively debug encoding errors. Also a reference to the Unicode map. Id dare say that Bare Minimums
+are achieved.
+
 
 7) - https://www.w3.org/International/questions/qa-what-is-encoding
 8) - https://www.w3.org/International/getting-started/characters

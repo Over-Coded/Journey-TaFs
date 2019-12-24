@@ -1,54 +1,57 @@
+We will use a special system here, a bit rough but until a better one comes up,
+this will do. Because of extensive range of things and skills or languages to be
+covered, i will try to record it using common concepts, techiques, etc.
 
 
+1) - Git
 
-First off we need to create a global scale system, one that will help us count.
-Counting on a minimum of 1, and a maximum of 100. This is a personal tryout to 
-a self assesment and improvment.
-
-1-20    <-- Basic
-20-40   <--Advanced
-40-60   <--Intermediate
-60-80   <--Expert
-80-100  <--Master
-
-Now depending on language or software or whatever is beign evaluated, reasons 
-for numbering will be explained on the skill. Until i think of something better.
-
-
-Git  5 out 20.
 Learned:
-Installation, Bash and GUI, GitKraken Basics, Basic commands, Integration with 
-VSCode, SSH registration.
-Need: 
-Commands, fundementals, origin, Advanced Lessons.
+Installation, GitKraken Gui and usage, GitHub Desktop installation, configuration 
+and usage, bash basic commands, clone, edit, sumbit, Integration with VSCode, SSH 
+registration, failure rescue commands.
 
-github  8 out 20
+Need: 
+command manual, anki rep, maybe markdown, courses
+
+2) - Github
+
 Learned:
-Clone, edit and push/pull repositories, intergration with Git and VSCode.
-Markdown Language entry.
+Clone, edit and push/pull repositories, intergration with Git and VSCode,
+contributions, Markdown Language entry.
+
 Need: 
-Advanced lessons, to complete the training lab.
+Advanced lessons, to complete the training lab, markdown.
 
-Character Encodings 10 out 20
-Learned: Fonts, History, bug fixing, error reporting, usage, application in HTML,
-Css, BoM, ASCII
-Need: Advanced lessons, bytes, makings, older books.
+3) - Character Encodings
 
-VSCode  3 out 20
+Learned:
+Fonts, History, bug fixing, error reporting, usage, application in HTML,
+Css, BoM, ASCII.
+
+Need:
+Advanced lessons, bytes, makings, older books.
+
+4) - VSCode.
+
 Learned: 
 Basic Usage, Git Integration, Little Extensions.
+
 Need: 
 Courses, Documentation, Some keybinds.
 
-Touch typing    5 out 20
+5) - Touch typing.
+
 Learned: 
 Simple Touch type, less looking in KB,
 Still many error, writing a bit more comfortable now.
+
 Need: 
 Lessons until 45.
 
-Writing     4 out 20
+6) - Writing.
+
 Learned:
 Some syntax, better phrases, gets better.
+
 Need:
 More Articles and courses.
