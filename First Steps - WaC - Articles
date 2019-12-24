@@ -3,7 +3,7 @@
 *Dec 23. <-- Due to the free time we are reading all lessons again, and rewriting all 
 articles.
 
-1) - https://guides.github.com/activities/hello-world/
+1) - https://guides.github.com/activities/hello-world/  #1 Starter
 
 First guide on git. The very manual, learned to created repositories, pull, merge and edit changes.
 I can call it the very basic training of git, the barebones. More than 10 minutes needles to say. 
@@ -19,7 +19,7 @@ a reference and for random questions. Well as of now, i have visited this guide 
 add that it helped me a great many times. Not only the guide itself, but also the comments, you can
 find a great deal of resources, answering some inquisitive minds.
 
-3) - https://guide.freecodecamp.org/git
+3) - https://guide.freecodecamp.org/git   #2 Starter 2nd
 
 Now this is what i call entry level, the most usefull guide so far. I can feel entry level now, we 
 got some basic concepts and 101s. Git is a distributed control system that helps multiple users or
@@ -32,19 +32,39 @@ changes, merges the changes with the orignal page, and voilla 1 page merged with
 Ending in a clandestine document passed by 100 set of eyes, and also a history behind it, all the 
 changes that it went from the orignal state, along with the reasons for the edit, the date/hour and
 the author of the changes. All that in real time, connecting literally all of the world.
-Clone - Modify - Stage - commit - push.
+Clone - Modify - Stage - commit - push. Five words, is all i have.
 
-4) - https://code.visualstudio.com/docs/editor/versioncontrol
+4) - https://code.visualstudio.com/docs/editor/versioncontrol   #3 Basic after some VScode Tut.
 
-How i learned to configure git and use it from within  my computer and to edit files with VsCode.
+This was one more step up, inside the basics always. We delved inside the VSCode, the text editor
+of choice, more on that later, there are over 6 lessons to be covered here. Some basic integration
+is not bad to know. So all in all our editor of choice has all the functions already, just some 
+configurations. New introduction was the extensions inside the editor, more as we go there. For the
+beign, Github Pull requests, it allows you to proccess and accept pull requests from within our IDE.
+Also now we see, in the status bar bellow the text editor, the username we have inside GitHub. another
+new tool to have arround is the Azure DevOps. Another online host of personal repositories, wich connects
+perfectly with your github account, and your Microsoft account. VsCode + Github + Azure Devops. before
+the question "why another one like GitHub?", personaly i think it will have its uses. We will keep it 
+arround and see in time. Could be a Gem in the long run, or a powerfull portable solution, time will tell.
+I wish i had some training in VScode, waiting for another chair, my house and my multi-monitor setup.
 
-5) - https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/
+5) - https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/   #4 Basics Done.
 
-Well, useful but cant follow it via order. Around half of the guide tells you to add a sample.html 
-via commands, you also need to create it in the local area, were you have cloned the repository.
-At this point i got stuck, began reading other material, even asked in stackoverflow, 
-eventually, the solution was found and i was able to continue reading this guide.
-Good one... but...nonetheless, good one.
+Well, useful but i could not follow it via the correct order. Around half of the guide the instructions
+tells you to add a sample.html all cool, but the surprise came when you actually have to create it first,
+inside the local repo directory. Yeah, welcome to the frustration, the newbie got stymied. After a good 
+day searching the most creative key words ever, i asked in the QaA cumminity. Namely Stack Overflow, a 
+specialized central to ask anything programming. There are communitys about every subject inside Stack 
+Exchange, the mother site of QaAs. Wanna ask something about something? Go there, first choice.
+So after a question, some edits, some more searching, i was tinkering inside bash and an error came up.
+Searching about it, came to answer my own question and sove all my problems with git and that bash.
+Ending my frustration and the tutorial. Coding is all about experimenting, asking, problem solving,
+and using communitys. So i have a feeling that today we did all of that. Mission accomplished and some 
+extra, "https://github.com/firstcontributions/first-contributions". This little gem, provided us with
+the oumpf we needed, and also supplement this course lovely. Pulling a repo, accepting an issue and
+solving it, pushing and getting a pull request, waiting for acceptance of edits, and thous making the
+first active contribution ever. I wouldd say at this point that we completed the basics, with git, and
+that now we need more specialized knowledge, more on skillset.
 
 6) - https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-
 positively-must-know-about-unicode-and-character-sets-no-excuses/
