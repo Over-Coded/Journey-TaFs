@@ -1,84 +1,83 @@
 
-*Dec 20. <-- Articles will be renamed into WaC "Writing Along the Curriculum"
-*Dec 23. <-- Due to the free time we are reading all lessons again, and rewriting all 
-articles.
+*Dec 20. <-- Articles will be renamed into WAC "Writing Along the Curriculum"
+*Dec 23. <-- Due to the free time we are reading all lessons again, and rewriting all articles.
 
 1) - https://guides.github.com/activities/hello-world/  #1 Starter
 
 First guide on git. The very manual, learned to created repositories, pull, merge and edit changes.
-I can call it the very basic training of git, the barebones. More than 10 minutes needles to say. 
-I took my time and ended up in half an hour's worth of course. That's me i guess. Also to note that 
+I can call it the very basic training of git, the barebones. More than 10 minutes needless to say. 
+I took my time and ended up in half an hour's worth of course. That's me I guess. Also to note that 
 the guide is based on website control, no command line support. Also the first Article. Well.
 
 2) - https://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide
 
-Second guide, a google result, it turned out to be practical as advertised. But the order is a bit
-weird, i went from configurating the git to searching terms i had no clue what they were. Well all
-in all it is rich and content friendly. It is not for me at this point, so i will keep it around as
-a reference and for random questions. Well as of now, i have visited this guide many times, i have 
-added that it helped me a great many times. Not only the guide itself, but also the comments, you can
-find a great deal of resources, answering to some more inquisitive minds.
+The second guide, a google result, it turned out to be practical as advertised. But the order is a bit
+weird, I went from configuring the git to searching terms I had no clue what they were. Well, all
+in all, it is rich and content friendly. It is not for me at this point, so I will keep it around as
+a reference and for random questions. Well as of now, I have visited this guide many times, I have added 
+that it helped me a great many times. Not only the guide itself but also the comments, you can
+find plenty of resources, answering to some more inquisitive minds.
 
 3) - https://guide.freecodecamp.org/git   #2 Starter 2nd
 
-Now this is what i call entry level, the most useful guide so far. I can feel entry level now, we 
+Now, this is what I call entry-level, the most useful guide so far. I can feel the entry-level now, we 
 got some basic concepts and 101s. Git is a distributed control system that helps multiple users or
 coders have access to a file or program (hosted online on repositories) and modify it. Plain? Simple?
-Yes but not so much. What really shines is in the inner workings, and in this git-case, the impeccable
-history, and logging, containing date, time changes and comments. Imagine 100 people proof reading the 
-same page on the excact same time, on different places. After they are done they send the pages to the 
-author to review and accept or refuse the changes. This is git, takes all pages, compares the changes, 
-checks the reasons for the changes, merges the changes with the orignal page, and voila 1 page merged 
-with 100+ corrections. Ending in a clandestine document passed by 100 set of eyes, and also a history
-behind it, all the changes that it went through from the orignal state, along with the reasons for the edit, 
-the date/hour and the author of the changes. All that in real time, connecting literally all of the world.
-Clone - Modify - Stage - commit - push. Five words, is all i have.
+Yes but not so much. What shines is in the inner workings, and in this git-case, the impeccable
+history, and logging, containing date, time changes and comments. Imagine 100 people proofreading the 
+same page at the same time, in different places. After they are done they send the pages to the author 
+to review and accept or refuse the changes. This is git, takes all pages, compares the changes, 
+checks the reasons for the changes, merges the changes with the original page, and voila 1 page merged 
+with 100+ corrections. Ending in a clandestine document passed by 100 sets of eyes, and also a history
+behind it, all the changes that it went through from the original state, along with the reasons for the 
+edit, the date/hour and the author of the changes. All that in real-time, connecting all of the worlds.
+Clone - Modify - Stage - commit - push. Five words are all I have.
 
 4) - https://code.visualstudio.com/docs/editor/versioncontrol   #3 Basic after some VScode Tut.
 
-This was one more step up, inside the basics always. We dwelved inside the VSCode, the text editor
+This was one more step up, inside the basics always. We delved inside the VSCode, the text editor
 of choice, more on that later, there are over 6 lessons to be covered here. Some basic integration
 is not bad to know. So all in all our editor of choice has all the functions already, just some 
-configurations. New introduction was the extensions inside the editor, more as we go there. For the time
-being, "Github Pull requests" the extension, it allows you to proccess and accept pull requests from within 
-our IDE.
-Also now we see, in the status bar below the text editor, the username we have inside GitHub. another
-new tool to have around is the Azure DevOps. Another online host of personal repositories, which connects
-perfectly with your github account, and your Microsoft account. VsCode + Github + Azure Devops. before
-the question "why another one like GitHub?", personally i think it will have its uses. We will keep it 
-around and see in time. Could be a Gem in the long run, or a powerful portable solution, time will tell.
-I wish i had some training in VScode, waiting for another chair, my house and my multi-monitor setup.
+configurations. The new introduction was the extensions inside the editor, more as we go there. For 
+the time being, "Github Pull requests" the extension, it allows you to process and accept pull requests 
+from within our IDE. Also now we see, in the status bar below the text editor, the username we have 
+inside GitHub. another new tool to have around is the Azure DevOps. Another online host of personal 
+repositories, which connects perfectly with your GitHub account, and your Microsoft account. 
+vscode + Github + Azure DevOps. before the question "why another one like GitHub?", I think it will 
+have its uses. We will keep it around and see in time. Could be a Gem in the long run, or a powerful 
+portable solution, time will tell. I wish I had some training in VScode, waiting for another chair, 
+my house, and my multi-monitor setup.
 
 5) - https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/   #4 Basics Done.
 
-Well, useful but i could not follow it via the correct order. Around half of the guide the instructions
-tells you to add a sample.html. All cool, but the surprise came when you actually have to create it first,
-inside the local repo directory. Yeah, welcome to the frustration, the newbie got stymied. After a good 
-day searching the most creative key words ever, i asked in the QaA cumminity. Namely Stack Overflow, a 
+Well, useful but I could not follow it via the correct order. Around half of the guide, the instructions
+tell you to add a sample.html. All cool, but the surprise came when you actually have to create it first,
+inside the local repo directory. Yeah, welcome to the frustration, the newbie got stymied. After a good day 
+searching the most creative key words ever, I asked in the QA community. Namely Stack Overflow, a 
 specialized central to ask anything programming-wise. There are communities about every subject inside Stack 
-Exchange, the mother site of QaAs. Wanna ask something about something? Go there, first choice.
-So after a question, some edits, some more searching, i was tinkering inside bash and an error came up.
-Searching about it, came to answer my own question and sove all my problems with git and that bash.
-Ending my frustration and the tutorial. Coding is all about experimenting, asking, problem solving,
-and using communities. So i have a feeling that today we did all of that. Mission accomplished and some 
-extra, "https://github.com/firstcontributions/first-contributions". This little gem, provided us with
+Exchange, the mother site of QaAs. Wanna ask something about something? Go there, the first choice.
+So after a question, some edits, some more searching, I was tinkering inside bash and an error came up.
+Searching about it, came to answer my own question and solve all my problems with git and that bash.
+Ending my frustration and the tutorial. Coding is all about experimenting, asking, problem-solving,
+and using communities. So I have a feeling that today we did all of that. Mission accomplished and some 
+extra, "https://github.com/firstcontributions/first-contributions". This little gem provided us with
 the umpf we needed, and also supplemented this course lovely. Pulling a repo, accepting an issue and
-solving it, pushing and getting a pull request, waiting for acceptance of edits, and thus making the
+solving it, pushing and getting a pull request, waiting for the acceptance of edits, and thus making the
 first active contribution ever. I would say at this point that we have completed the basics, with git, and
 that we now need more specialized knowledge, more on skillset.
 
 6) - https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-
 positively-must-know-about-unicode-and-character-sets-no-excuses/
 
-Well a rather funky tutorial, has taste of humour that might not apeal to everyone. I dont know if there
-is a bare minimum in anything, and i dont know what the heck encodings is. But joel says he can rectify
-that, and trust me he does. It had some techines iniside i cant say, but skiping past the terms and a bit
-math, i got it. How from ASCII we went to the Oem and later to Unicode. Speaking of witch unicode was the 
-attempt to unify all codes. All letters in unicode are assigned to an id, named code point. Eventually all
-words are a set of code points. Now on to encoding, first the Byte Order Mark, witch adds an EF or FF to the
-code point, telling you if its up in the memory or low. Also UTF-8 with 1 byte storage on 8 bytes. UTF-7, 
+Well a rather funky tutorial, has a taste of humor that might not appeal to everyone. I don't know if there
+is a bare minimum in anything, and I don't know what the heck encodings is. But Joel says he can rectify
+that, and trust me he does. It had some techniques inside i can't say, but skipping past the terms and a bit
+math, I got it. How from ASCII we went to the Oem and later to Unicode. Speaking of which Unicode was the 
+attempt to unify all codes. All letters in Unicode are assigned to an id, named code point. Eventually, all
+words are a set of code points. Now on to encoding, first, the Byte Order Mark, which adds an EF or FF to the
+code point, telling you if it's up in the memory or low. Also, UTF-8 with 1-byte storage on 8 bytes. UTF-7, 
 UCS-4 and plenty. After reaching the end of Joel's guide, we know what encoding is, how to use it and how 
-to effectively debug encoding errors. Also a reference to the Unicode map. Id dare say that Bare Minimums
+to effectively debug encoding errors. Also a reference to the Unicode map. Id dare says that Bare Minimums
 are achieved.
 
 
@@ -86,41 +85,26 @@ are achieved.
 8) - https://www.w3.org/International/getting-started/characters
 9) - https://www.w3.org/International/tutorials/tutorial-char-enc/
 
-W3.org, quality site, the tutorials are well written, the ones i used anyway... Needless to say, one link
+W3.org, quality site, the tutorials are well written, the ones I used anyway... Needless to say, one link
 led to another, and maybe there are four tutorials. Anyway, those got a bit techie, but all in all, they 
-cover fonts, repertoirs, sets, application in CSS and HTML, escapes, ASCII, BOM Byte Order Mark. Nice more on
-encodings later.
+cover fonts, repertoires, sets, application in CSS and HTML, escapes, ASCII, BOM Byte Order Mark. Nice more 
+on encodings later.
 
 10)- Creative Writing by Margaret Atwood.
 
-Now that was a course i enjoyed not alone. Around 4 hours. Covers the aspects of how to write, the
-perspectives of the story, not so basic, i will review it again and try to understand it a bit better.
+Now that was a course I enjoyed not alone. Around 4 hours. Covers the aspects of how to write, the
+perspectives of the story, not so basic, I will review it again and try to understand it a bit better.
 
 11) - What you need before you start Programming.
 
-Not much, mostly a motivational video, i watched it with the seek bar on the move. Anyway key points, 
-learned how to create a system of learning, how to tell between what i need to learn and what i want 
-to learn. Well it helped at least. I thought it was about the tools and the environment you need before the 
-actual thing.
+Not much, mostly a motivational video, I watched it with the seek bar on the move. Anyway key points, 
+learned how to create a system of learning, how to tell between what I need to learn and what I want to 
+learn. Well, it helped at least. I thought it was about the tools and the environment you need before 
+the actual thing.
 
 12) - https://lab.github.com/githubtraining/introduction-to-github
 
-Well a tutorial on git, and not only, many languages. Finished the first day, learned about collaborating
+Well, a tutorial on git, and not only, many languages. Finished the first day, learned about collaborating
 issue fixing and taking over, sorry my mind stopped. on todo.
 
-a) - https://ohshitgit.com
-Honorable mention
-
-
-
-
-
-
-
-
-
-
-
-
-
-`
+* H1) - https://ohshitgit.com  <-- Honorable Mention 1

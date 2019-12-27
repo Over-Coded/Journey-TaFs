@@ -1,9 +1,9 @@
 December 19.
 
 There have been some changes and so the creation of a new file is a must.
-In order to clarify and beautify it, and attempt to make it structured.
-Still in the prosess of changing houses, it's convienient as i am still in
-the data collection. Lets begin. 
+To clarify and beautify it, and attempt to make it structured.
+Still, in the process of changing houses, it's convenient as I am still in
+the data collection. Let us begin. 
 
 *Bookmarks have been updated.   <-- TBI - To Be Implemented.
 *Accounts and S.sites updated.  <--Blog, created. Also TBI.
@@ -12,7 +12,8 @@ the data collection. Lets begin.
     3) - https://guide.freecodecamp.org/git
     4) - https://code.visualstudio.com/docs/editor/versioncontrol
     5) - https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/
-    6) - https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+    6) - https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-
+            absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
     7) - https://www.w3.org/International/questions/qa-what-is-encoding
     8) - https://www.w3.org/International/getting-started/characters
     9) - https://www.w3.org/International/tutorials/tutorial-char-enc/
@@ -27,37 +28,36 @@ To do:
 a) - Articles.
 b) - Character Encodings.
 c) - git, plus profile.
-d) - Blog start.
-e) - Pick next Skill to study. -for now.
+d) - Blog started.
+e) - Pick the next Skill to study. -for now.
 
 
 December 20                                 
 <intro>
-    Slow days, and also in the proccess of dealing with personal issues. Cant fight it so i am using
-the time reading about soft skills, concepts and improving the already excisting facts.
-Also taking time to grow accostumed to the sites and all online tools and resources i will be using.
-stackoverflow, github, git, various learn sites, online reference lists and local enviroment tools.
+    Slow days, and also in the process of dealing with personal issues. Can't fight it so I am using
+the time reading about soft skills, concepts and improving the already existing facts.
+Also taking time to grow accustomed to the sites and all online tools and resources I will be using.
+StackOverflow, GitHub, git, various learning sites, online reference lists, and local environment tools.
 Getting to be a web developer from scratch, is on its own daunting. And is my firm belief, that despite
 the tremendous amount of resources, online lessons and most importantly, the fast learning platforms that
-excist out, that this learning curve one must take it slow, structurized and in steps, in order to be good,
-and have a chance of surviving an ever evolving technology.
+exist out, that this learning curve one must take it slow, structured and in steps, to be good,
+and have a chance of surviving an ever-evolving technology.
 <intro>
 
 <changes>
     * We need to keep a certain stereotype composition of this log. 
-    Otherwise it will be impossible for anyone reading this, myself
+    Otherwise, it will be impossible for anyone reading this, myself
     included, to make any sense of it at all.
-        <intro> A small catch up. Day, event based.
+        <intro> A small catch up. Day, event-based.
         <changes>  as seen * each asterisk
         <WaC> Lessons, courses, etc. For Article reference help.
-        <Skillset> All the skills, concepts, etc. Obtained or Wip.
+        <Skillset> All the skills, concepts, etc. Obtained or WIP.
         <todo> Left to work on.
-    * The bookmarks are done. Following the reading material. All that 
-    is left now is to implement it.
+    * The bookmarks are done. Following the reading material. All that is left now is to implement it.
     * The roadmap is done as well, updated all that is left now is to
     ....yeah.
     * The blog is done. Links on info. Along with socials. In case of contact.
-    * New feature Skillset, in the about me. Links on online courses, example 
+    * New feature Skillset, in the about me. Links on online courses, for example 
     Touch typing.
                                             <changes>
 
@@ -78,39 +78,37 @@ and have a chance of surviving an ever evolving technology.
                                             <todo>
     * Blog, need info, first look, articles, posts.
     * Some rest.
-    * Continiou the articles.
+    * Continue the articles.
     * Concepts we need to look for
-        cheat sheets
-        references
-        online and offline tools
-        code writing, clean code, refactoring, specialized to the language, and general.
-        practises, training, routines.
+        cheat sheets references online and offline tools code writing, clean code, 
+        refactoring, specialized to the language, and general.
+        practices, training, routines.
         check the mail as well.
-        reverese engineer the language and check each concept apart, move to the next.
-        sitemaping, wireframing planning a website
-        plan media, day, activitys
+        reverse engineer the language and check each concept apart, move to the next.
+        sitemap, wireframing planning a website
+        plan media, day, activities
 <todo>
 
 23 December
 <intro>
-    Finally everything has been sorted and the house date has been set. And the next came up, 
-Christmass and with it, work days. Having the luxury and priviledges, to have a night job, 
-comes the changes in work days. Well inside the week, in the meantime we are reading the 
-last courses again, setting the enviroment and more. Without further ado (....."about the snow
-elves"... reference to a mod from, skyrim if i am not mistaken) the changes.
+    Finally, everything has been sorted and the house date has been set. And the next came up, 
+Christmas and with it, workdays. Having the luxury and privileges, to have a night job, 
+comes the changes in workdays. Well inside the week, in the meantime we are reading the last 
+courses again, setting the environment and more. Without further ado (....." about the snow
+elves"... reference to a mod from, Skyrim if I am not mistaken) the changes.
 <changes>
     *Everything has been refactored inside this repository.
     *The blog has been updated, and the first posts are created.
-    *facebook and Blogger Connected.
+    *Facebook and Blogger Connected.
     *Roadmap Implemented.
     *Bookmarks Implemented.
-    *Flow of infomation implemented.
-    *Change log infastructure changed.
+    *Flow of information implemented.
+    *Changelog infrastructure changed.
     *New Software, Atom, Atom Nighty, Git Extensions, VIm, Git Desktop.
-    *Anki installed and is ready to flash card us.
+    *Anki installed and is ready to flashcard us.
 <waC>
     We will redo the last. Due to Blog.
-    * 13) - https://ohshitgit.com  <-- Honorable mention
+    * H1) - https://ohshitgit.com  <-- Honorable Mention 1
 <skillset>
     *Git
     *github
@@ -120,8 +118,28 @@ elves"... reference to a mod from, skyrim if i am not mistaken) the changes.
     *Blog
     *Writing
 <todo>
-    *Blog, check abouts adds and add sense.
+    *Blog, check about adds and add a sense.
     *Promote this page.
     *Redo all articles.
-    *Implement a file for containing todos, toReads and all the riff raff. <-- Inside the About me Dir.
+    *Implement a file for containing todos, threads, and all the riff-raff. <-- Inside the About me Dir.
     *Create a timetable of activities.
+
+    23 - 28 December
+    <intro>
+    There we go after all these days we are finally here, in so let us begin. First and foremost the 
+    personal section, after all, affects everything we do or want to do. Changing houses will be done 
+    after the holidays due to a change in work hours. Changing from Friday/Saturday to Saturday/Tuesday/
+    Wednesday, and that in the night shift is very bad. None the less with the little time we had left
+    we squeezed some details of, most of the changes after the holidays.
+    <changes>
+        * Licence has been added.
+        * The blog has been updated up and until this post.
+            * we will keep the blog one step behind.
+        * Flow of info has been finished.
+        * Roadmap is finally finished.
+        * Grammarly has been added.
+        * Typing lessons have begun.
+        * Curriculum is updated as well.
+        * Little left to do except update the details.
+        * Timetable is also done.
+        * Adds to todo
