@@ -1,4 +1,4 @@
-# Knowledge-Tracker
+# Education Log
 Eventually, this will become a great website. Able to help anyone, 
 by reading it and seeing a tutorial written by someone as they go.
 I cannot afford to buy education for web developing, so we will go 
