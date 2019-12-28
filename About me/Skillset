@@ -1,37 +1,33 @@
-We will use a special system here, a bit rough but until a better one comes up,
-this will do. Because of extensive range of things and skills or languages to be
-covered, i will try to record it using common concepts, techiques, etc.
+Due to the extensive variaty in the curriculum, from tools, languages and concepts, 
+to even personal and mental or soft skills, using a global or unified system for 
+acountability is recomended. Trying to find solutions for this problem some time now
+its time to just log and go.
 
 
-1) - Git
-
-Learned:
-Installation, GitKraken Gui and usage, GitHub Desktop installation, configuration 
-and usage, bash basic commands, clone, edit, sumbit, Integration with VSCode, SSH 
-registration, failure rescue commands.
-
-Need: 
-command manual, anki rep, maybe markdown, courses
-
-2) - Github
+1) - Git - Github
 
 Learned:
-Clone, edit and push/pull repositories, intergration with Git and VSCode,
+Website usage, for own repositories and contributing to other projects.
+Installation configuration and usage from bash, GitKraken and Github.
+Failure rescue. Read through the article and practised.
+Git bash to aduequet level.
+Clone, edit and push/pull repositories, integration with Git and VSCode,
 contributions, Markdown Language entry.
 
 Need: 
-Advanced lessons, to complete the training lab, markdown.
+Markdown, Read though extensive material, repetance and anki. Usage.
+Complete trainin lab.
 
-3) - Character Encodings
+2) - Character Encodings
 
 Learned:
 Fonts, History, bug fixing, error reporting, usage, application in HTML,
 Css, BoM, ASCII.
 
 Need:
-Advanced lessons, bytes, makings, older books.
+Advanced lessons, bytes, makings, older books. Recap
 
-4) - VSCode.
+3) - VSCode.
 
 Learned: 
 Basic Usage, Git Integration, Little Extensions.

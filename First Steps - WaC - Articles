@@ -2,14 +2,15 @@
 *Dec 20. <-- Articles will be renamed into WAC "Writing Along the Curriculum"
 *Dec 23. <-- Due to the free time we are reading all lessons again, and rewriting all articles.
 
-1) - https://guides.github.com/activities/hello-world/  #1 Starter
+1) - https://guides.github.com/activities/hello-world/  #1 - Git - Starter
 
 First guide on git. The very manual, learned to created repositories, pull, merge and edit changes.
 I can call it the very basic training of git, the barebones. More than 10 minutes needless to say. 
 I took my time and ended up in half an hour's worth of course. That's me I guess. Also to note that 
 the guide is based on website control, no command line support. Also the first Article. Well.
 
-2) - https://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide
+2) - https://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide  
+    #1 - Git - Advanced.
 
 The second guide, a google result, it turned out to be practical as advertised. But the order is a bit
 weird, I went from configuring the git to searching terms I had no clue what they were. Well, all
@@ -18,7 +19,7 @@ a reference and for random questions. Well as of now, I have visited this guide 
 that it helped me a great many times. Not only the guide itself but also the comments, you can
 find plenty of resources, answering to some more inquisitive minds.
 
-3) - https://guide.freecodecamp.org/git   #2 Starter 2nd
+3) - https://guide.freecodecamp.org/git   #3 - Git - Starter. 2# - Vscode - Starter
 
 Now, this is what I call entry-level, the most useful guide so far. I can feel the entry-level now, we 
 got some basic concepts and 101s. Git is a distributed control system that helps multiple users or

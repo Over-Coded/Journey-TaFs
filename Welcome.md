@@ -6,3 +6,5 @@ The legacy folder will contain the old logs, also a version and date log.
 Improvements are meant for anyone willing to contribute to this project.
 About me section will contain a Curriculum Vitae of sorts, holding current skill level in
 all the departments, along with concepts, techniques, and tools.
+Happy New Year.
+Please Visit my Blog At https://www.blogger.com/blogger.g?blogID=1694708713385415269#pageelements

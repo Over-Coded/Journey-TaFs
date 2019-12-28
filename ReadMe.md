@@ -8,3 +8,4 @@ entirely new to this, everything is going to be from scratch.
 I will log everything, process, tutorials, resources, cause this is
 going to be a long long journey, and we will need some impeccable 
 documentation.
+Happy New Year.
