@@ -9,3 +9,6 @@ I will log everything, process, tutorials, resources, cause this is
 going to be a long long journey, and we will need some impeccable 
 documentation.
 Happy New Year.
+
+Please Visit my blog site, and leave a comment.
+https://alex-overcoded.blogspot.com
