@@ -1,0 +1,21 @@
+## The never ending list of dos.
+
+- [ ] Writing Clean Code
+- [ ] Refactoring projects
+- [ ] Practises, routines, dallies.
+- [ ] Prototyping
+- [ ] Sitemapping
+- [ ] Wireframming
+- [ ] Cheat Sheets
+- [ ] Portable Tools
+- [ ] Online Tools
+- [ ] Linter
+- [ ] Formatter
+- [ ] Writing
+- [ ] Grammar Check
+- [ ] Social Media Manager
+- [ ] Contibute Artists
+- [ ] Freelance Acounts
+- [ ] Zety
+- [ ] anki
+- [ ] pomodoro technique

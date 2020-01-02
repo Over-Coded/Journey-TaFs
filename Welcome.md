@@ -1,10 +1,5 @@
-Welcome to my education log, this will be the staging zone for the end project.
-This will contain, 2 files at first, one with the running changes, etc. and another,
-containing the articles for the courses and resource material used through the log.
+Welcome my name is Alexander and I am from Greece. This sounds like the English lessons we had in school, well it does the job, let us continue. I am a computer technician or repairman, as you might say it in the common slang. I specialize in computer hardware, home and small shops, repairs and common tasks. Right now I am on a "journey" as you might say it hence and the name of the project, to become a self taught, freelance, full-stack developer. Some of my terminology is a bit off, so please correct me if i got something wrong. The projects concept is to log this Journey in a Online Git log, repository, maintaning a structure of a Website sitemap of sorts, containing skills and everything aquired and whole proccess. Succefully creating an Portfolio and a C/V. Another idea was to write reviews, about all the learning material used, effectively using the write to learn technique, both for understanding and in an effort to develop my writing skills. The reviews will feed the blog, in an efford to aquire some monney through adds, views or by freelancing as a amateur writer, to upgrade my equipment. Ultimately I am hopping to provide income while providing for my family.
 
-The legacy folder will contain the old logs, also a version and date log.
-Improvements are meant for anyone willing to contribute to this project.
-About me section will contain a Curriculum Vitae of sorts, holding current skill level in
-all the departments, along with concepts, techniques, and tools.
-Happy New Year.
 Please Visit my Blog At https://www.blogger.com/blogger.g?blogID=1694708713385415269#pageelements
+and leave your thoughts.
+There you will find also my contact details including facebook and personal projects not contained here.
