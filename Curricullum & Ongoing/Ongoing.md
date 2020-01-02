@@ -1,0 +1,24 @@
+- [ ] https://kimschlesinger.com/learning/2019/01/12/Knowledge-Wiki/
+- [ ] https://github.com/kylecoberly/knowledge/wiki
+- [ ] https://github.com/kimschles/schlesinger-knowledge/wiki
+- [ ] https://guides.github.com/features/wikis/
+- [ ] https://www.youtube.com/watch?v=105IRQXy2oQ
+- [ ] https://www.youtube.com/watch?v=MijmeoH9LT4
+- [ ] https://www.youtube.com/watch?v=JwWoVQXQ24k
+- [ ] https://www.youtube.com/watch?v=5aJKKgSEUnY
+- [ ] https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+- [ ] https://guides.github.com/features/mastering-markdown/
+- [ ] https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
+- [ ] https://choosealicense.com/licenses/
+- [ ] https://help.github.com/en/github/managing-your-work-on-github/about-task-lists
+- [ ] https://help.github.com/en/github/managing-your-work-on-github/about-task-lists#creating-task-lists
+- [ ] https://stackoverflow.com/questions/31694871/markdown-multi-checkbox-in-one-line
+- [ ] https://guides.github.com/introduction/git-handbook/
+- [ ] https://learngitbranching.js.org
+- [ ] https://lab.github.com
+- [ ] https://www.freecodecamp.org/news/best-git-tutorial/ ssh registration
+- [ ] https://www.youtube.com/watch?v=e4S8zfLdLgQ&index=14&- [ ] list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc
+- [ ] https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm
+- [ ] https://www.freecopyrightregistration.com/page.php?section=main&page=unauthorized&xsection=Admin&xpage=Abstracts
+- [ ] https://en.wikiversity.org/wiki/Computer_Skills/Basic/Internet
+- [ ] https://choosealicense.com
