@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Journey to Full Stack
 
 This is an education log, documenting all that is gained while learning web development, and in particular, lessons, articles, courses, tutorials will be reviewed. Eventually I will upload my list of all the lessons I have about the subject. We are talking about 800 gb of video tutorials, books, audio books, and email correspondence relating to news and articles for web development from 2016.
@@ -59,3 +60,19 @@ This project is licensed under the grub License - see the [LICENSE.md](LICENSE.m
 ## Acknowledgments
 
 * My beloved one, Andrianni, whom without her endless support and motivation, all of this would be just an idea. Perhaps not even that.
+=======
+# Education Log
+Eventually, this will become a great website. Able to help anyone, 
+by reading it and seeing a tutorial written by someone as they go.
+I cannot afford to buy education for web developing, so we will go 
+through self-learning. But this is very difficult, and I am also
+entirely new to this, everything is going to be from scratch.
+
+I will log everything, process, tutorials, resources, cause this is
+going to be a long long journey, and we will need some impeccable 
+documentation.
+Happy New Year.
+
+Please Visit my blog site, and leave a comment.
+https://alex-overcoded.blogspot.com
+>>>>>>> 4f6bf217a446a32ce5f88fed9efcd60259346b38
