@@ -13,7 +13,8 @@
 - [ ] Formatter
 - [ ] Writing
 - [ ] Grammar Check
-- [ ] Social Media Manager
+- [x] Social Media Manager
+- [ ] Keep Profiles of perople
 - [ ] Contibute Artists
 - [ ] Freelance Acounts
 - [ ] Zety
