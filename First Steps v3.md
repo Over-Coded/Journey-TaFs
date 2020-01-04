@@ -14,10 +14,11 @@ As you can see we have taking some lessons in markdown, a markup language, simil
 - Readme tutorial and revamp.  
 
 ### Wac
-> Check ongoing
+> Check reviews
 
 ### Skills
 - Typing
 - Markdown
 - Readme
 - Licenses
+- git+github

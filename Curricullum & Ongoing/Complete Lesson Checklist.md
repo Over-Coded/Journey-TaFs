@@ -2,7 +2,6 @@
 
 - **Prerequisites.**
 	1. Character Encodings
-
 		- Lessons
 			- [x] [Character Encodings - Basic #1](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 			- [x] [Character Encodings - Basic #2](https://www.w3.org/International/questions/qa-what-is-encoding)
@@ -29,7 +28,6 @@
 			- [x] Example
 
 	3. Git & GitHub
-
 		- Lessons.
 			- [x] [Git - Basic #1](https://guides.github.com/activities/hello-world/)
 			- [x] [Git - Basic #2](https://guide.freecodecamp.org/git)
@@ -37,16 +35,16 @@
 			- [x] [Git - Basic #4](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github)
 			- [x] [Git - Advanced #1](https://ohshitgit.com)
 			- [x] [Git - Advanced #2](https://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide%20#1%20-%20Git%20-%20Advaced.)
+			- [x] [Git - Advanced #3](https://lab.github.com/githubtraining/introduction-to-github)
 
-		- Check List
-			- [ ] Markdown Basic Knowledge
+		- CheckList
 			- [x] Website usage, edits & Contributions
             - [x] Installation & Integration with OS & Code Editors.
             - [x] Console Intastallation & Usage
             - [x] Github Installation & Usage
             - [x] GitKraken Installation & Usage
             - [x] Fail resque - Article
-            - [ ] More Markdown
+            - [x] Markdown Now seperated.
             - [ ] Anki
             - [ ] Training Lab
             - [ ] Books
@@ -61,12 +59,25 @@
             - [x] Extensions: Git pull Requests, Grammar.
 			- [ ] Courses
             - [ ] Manual, more of all
-	5. Markdown.
+
+	5. Markdown - Git Flavored Markdown - GFM.
 		- Lessons
-			- [ ] Example
+			- [x] [Markdown - Basics #1](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+			- [x] [Markdown - Advanced #3](https://github.github.com/gfm/)
+			- [x] [Markdown - Basics #2](https://help.github.com/en/github/writing-on-github/about-writing-and-formatting-on-github)
+			- [x] [Markdown - Basics #3](https://help.github.com/en/github/writing-on-github/working-with-advanced-formatting)
+			- [x] [Markdown - Basics #4](https://guides.github.com/features/mastering-markdown/)
+			- [x] [Markdown - Advanced #1](https://help.github.com/en/github/managing-your-work-on-github/about-task-lists)
+			- [x] [Markdown - Advanced #2](https://stackoverflow.com/questions/31694871/markdown-multi-checkbox-in-one-line)
 		- Obtained
-			- [ ] Example
-			- [ ] Example
+			- [x] Basic tags
+			- [x] lists, nested lists
+			- [x] Formating
+			- [x] Syntax
+			- [x] Structure
+			- [ ] GFM
+			- [ ] Java Markdown
+
 	6. Writing
 		- Lessons
 			- [x] [Creative Writing - Basic #1](https://www.masterclass.com/classes/margaret-atwood-teaches-creative-writing/chapters/getting-started-as-a-writer)
@@ -96,3 +107,8 @@
 	8. Others.
 		- Lessons.
 			- [x] [What you need before you start Programming](Link%20to%20be%20added)
+			- [x] [Readme Guide](https://guides.github.com/features/wikis/)
+		- Checklist
+			- [x] Readme Basic Structure & layout.
+			- [x] Knowledge of planning and structuring an goal.
+			- [x] Motivational Support

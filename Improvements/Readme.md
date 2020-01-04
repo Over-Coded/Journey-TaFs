@@ -18,5 +18,5 @@ Suggestions\alexmyidea
 
 ### Notes
 
-I will review everything in due time. Usually it will take me a day, as soon as a I see it, I will contact you immidiately, and keep you informed through the whole process. 
+I will review everything in due time. Usually it will take me a day, as soon as a I see it, I will contact you immediately, and keep you informed through the whole process. 
 Thank you all sincerely. 
