@@ -85,4 +85,4 @@ Git recap
 To do:
 https://learngitbranching.js.org
 https://lab.github.com
-git recap and extra knowledge.
+git recap and extra knowledge.s
