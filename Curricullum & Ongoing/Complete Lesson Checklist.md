@@ -71,7 +71,7 @@
 			- [x] [Markdown - Advanced #2](https://stackoverflow.com/questions/31694871/markdown-multi-checkbox-in-one-line)
 		- Obtained
 			- [x] Basic tags
-			- [x] lists, nested lists
+			- [x] Lists, Nested Lists
 			- [x] Formating
 			- [x] Syntax
 			- [x] Structure
@@ -95,20 +95,25 @@
 			- [x] [Online Lessons - #1](https://www.typing.com/student/achievements)
 		- Checklist
 			- [x] Simple Touch type
-            - [x] Actuall 10 finger use
+            - [x] Actual 10 finger use
             - [x] Some special symbols 
                 > ,./;'\[]<>?:"|{}+_-=
             - [x] Numbers 
                 > 1234567890
 			- [x] Number Pad
-            - [ ] Practise
-            - [ ] More Practise
+            - [x] Practice
+            - [x] Shift Key and Capitalization
+            - [x] Basic Punctuation
+            - [x] Common English Words
             - [ ] Specialized Code Type.
+			- [ ] Errors
+			- [ ] More Practice
+
 	8. Others.
 		- Lessons.
 			- [x] [What you need before you start Programming](Link%20to%20be%20added)
 			- [x] [Readme Guide](https://guides.github.com/features/wikis/)
 		- Checklist
-			- [x] Readme Basic Structure & layout.
+			- [x] Readme Basic Structure, layout and formatting.
 			- [x] Knowledge of planning and structuring an goal.
 			- [x] Motivational Support

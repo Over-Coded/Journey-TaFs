@@ -25,3 +25,6 @@
 - [ ] writting pad digital notepad Royole RoWrite - Smart Writing Pad Digital Notepad
 - [ ] best blogges and how to monetize.
 - [ ] Bluetooth Acoustics.
+- [ ] alchahimers, anoia, kartalekai me stoixeai
+- [ ] patra maios
+- [ ] fix folders and leesson to be the same as in the schelude.
