@@ -61,36 +61,3 @@ This is your bread and butter right there, bookmark this and save it under a che
 20) - [Markdown - Advanced #2](https://stackoverflow.com/questions/31694871/markdown-multi-checkbox-in-one-line)
 
 Again this is for reference as well, I was in the need of checklists, and this was my answer. As for the second link, I've decided to include it as an extra. How to create a vertical multi check box inside a line. And that was it, this covers in extend the basic markdown we need, some advanced bits and some extras. Also a reference card, well to be honest these are small reads, not really an review each, so consider this to be a big review broken down in sections. Next up is Licenses, how, what, whys, and what to avoid. Have a nice night.
-
-https://www.freecopyrightregistration.com
-https://choosealicense.com/no-permission/
-https://choosealicense.com
-
-plain and simple choose a license why should you do it and what happens if you dont. diffrences in licenses and my failed attemt. git auto license
-
-https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm
-How does the internet work.
-https://en.wikiversity.org/wiki/Computer_Skills/Basic/Internet
-Absolute basics advanced and intermediate on computers & web workings
-
-https://www.youtube.com/watch?v=e4S8zfLdLgQ&index=14&-=
-How the Internet Works for Developers - Pt 1 - Overview & Frontend
-https://www.youtube.com/watch?v=FTAPjr7vgxE
-How the Internet Works for Developers - Pt 2 - Servers & Scaling
-Explaination on the finer making on the front and back end. Defenete Starter.
-
-https://www.youtube.com/watch?v=5aJKKgSEUnY
-https://www.youtube.com/watch?v=JwWoVQXQ24k
-https://www.youtube.com/watch?v=MijmeoH9LT4
-https://www.youtube.com/watch?v=105IRQXy2oQ
-
-Four videos to enrich and solidify some basics on characters encodings.
-
-https://guides.github.com/introduction/git-handbook/
-https://www.freecodecamp.org/news/best-git-tutorial/
-Git recap
-
-To do:
-https://learngitbranching.js.org
-https://lab.github.com
-git recap and extra knowledge.s

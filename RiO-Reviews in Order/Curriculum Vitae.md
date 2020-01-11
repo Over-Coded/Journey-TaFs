@@ -1,4 +1,4 @@
-## Education log & Checklist. 
+## Curriculum Vitae
 
 - **Prerequisites.**
 	1. Character Encodings
@@ -72,22 +72,28 @@
 		- Obtained
 			- [x] Basic tags
 			- [x] Lists, Nested Lists
-			- [x] Formating
+			- [x] Formatting
 			- [x] Syntax
 			- [x] Structure
+			- [x] GitHub Interface Controls
 			- [ ] GFM
 			- [ ] Java Markdown
+			- [ ] Ruby? Markdown
 
 	6. Writing
 		- Lessons
 			- [x] [Creative Writing - Basic #1](https://www.masterclass.com/classes/margaret-atwood-teaches-creative-writing/chapters/getting-started-as-a-writer)
 		- Obtained
 			- [x] Better syntax
-            - [x] Better grammmar
+            - [x] Better grammar
             - [x] Able to extend subjects more
             - [x] Write from a perspective view
             - [x] Convey feelings from written words.
-			- [ ] Practise
+			- [x] Paragraph Structure
+			- [x] Sentence Structure
+			- [x] Amateur Flow in written word.
+			- [x] Picking angles to approach writing
+			- [ ] Practice
             - [ ] Courses
             - [ ] Books
 	7. Typing
@@ -117,3 +123,12 @@
 			- [x] Readme Basic Structure, layout and formatting.
 			- [x] Knowledge of planning and structuring an goal.
 			- [x] Motivational Support
+	
+	9. Online, Socials, Career.
+		- Lessons.
+			- [x] Viral blog writing 101 by Wolken Navarro.
+		- Checklist
+			- [x] Basic blog structure
+			- [x] How to write a Post.
+			- [x] Headlines, keywords, tags.
+			- [x] How to research and support main idea.

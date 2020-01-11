@@ -6,7 +6,7 @@ As you can see we have taking some lessons in markdown, a markup language, simil
 
 ### Changes:
 - Version 3. January Total revamp of directory and files.
-- To-do is now separated from here..
+- To-do is now separated from here.
 - Social links updated.
 - Ongoing and Curriculum are up and coded.
 - Hootsuite, tweet and socials are up. Automated Posts.
@@ -21,4 +21,5 @@ As you can see we have taking some lessons in markdown, a markup language, simil
 - Markdown
 - Readme
 - Licenses
-- git+github
+- git+GitHub
+Legacy. 11th January, 2020.

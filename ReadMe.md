@@ -1,6 +1,6 @@
 # Journey to Full Stack
 
-This is an education log, documenting all that is gained while learning web development, and in particular, lessons, articles, courses, tutorials will be reviewed. Eventually I will upload my list of all the lessons I have about the subject. We are talking about 800 gb of video tutorials, books, audio books, and email correspondence relating to news and articles for web development from 2016.
+This is an education log, documenting all that is gained while learning web development, and in particular, lessons, articles, courses, tutorials will be reviewed. Eventually I will upload my list of all the lessons I have about the subject. We are talking about 800GBs of video tutorials, books, audio books, and email correspondence relating to news and articles for web development from 2016.
 
 ## Let us begin. 
 
