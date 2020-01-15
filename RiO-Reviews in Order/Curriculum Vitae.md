@@ -21,12 +21,13 @@
 
 	2. Licenses
 		- Lessons
-			- [ ] Example
-			- [x] Example
+			- [x] [Licenses #1](https://choosealicense.com)
+			- [x] [Licenses #2](https://choosealicense.com/no-permission/)
 		- Checklist
-			- [ ] Example
-			- [x] Example
-
+			- [x] Diffrent types of licenses & application
+			- [x] Registration and protection
+			- [ ] Legal
+			- [ ] Commerical Licenses
 	3. Git & GitHub
 		- Lessons.
 			- [x] [Git - Basic #1](https://guides.github.com/activities/hello-world/)
@@ -132,3 +133,94 @@
 			- [x] How to write a Post.
 			- [x] Headlines, keywords, tags.
 			- [x] How to research and support main idea.
+
+	10. Internet Skills.
+		- Lessons.
+			- [x] [Computer Skills Basic](https://en.wikiversity.org/wiki/Computer_Skills/basic)
+			- [x] [Computer Skills Intermediate](https://en.wikiversity.org/wiki/Computer_Skills/Intermediate)
+				> As defined by the ICAS Computer Skills Assessment Framework
+		- Checklist
+			- [x] Different Browsers and uses
+				> Opera, Chrome, Safari, Firefox, Edge.
+			- [x] Basic concepts.
+			- [x] Web Address Components.
+			- [x] Search results Optimization.
+			- [x] Basic Web Conventions of Modern Web Design
+			- [x] Email Providers, Differences & uses.
+			- [x] Proper Email write Etiquette.
+			- [x] Adding Multimedia to email.
+			- [ ] Specialized Courses.
+	
+	11. Computers, Software & Hardware.
+		- Lessons.
+			- [x] [Computer Skills Basic](https://en.wikiversity.org/wiki/Computer_Skills/basic)
+			- [x] [Computer Skills Intermediate](https://en.wikiversity.org/wiki/Computer_Skills/Intermediate)
+				> As defined by the ICAS Computer Skills Assessment Framework
+		- Checklist
+			- [x] Distinguish software / hardware.
+			- [x] Basic Terminology.
+			- [x] Backup Purpose.
+			- [x] File Management.
+			- [x] Version Control.
+			- [x] Recognize hardware peripherals.
+			- [x] Know basic network concepts.
+			- [x] Modern Terminology
+
+	12. Microsoft Office - Microsoft Word.
+		- Lessons.
+			- [x] [Computer Skills Basic](https://en.wikiversity.org/wiki/Computer_Skills/basic)
+			- [x] [Computer Skills Intermediate](https://en.wikiversity.org/wiki/Computer_Skills/Intermediate)
+				> As defined by the ICAS Computer Skills Assessment Framework
+		- Checklist
+			- [x] Create a new document & Edit, save.
+			- [x] Use dictionary's & spell check.
+			- [x] Operate print.
+			- [x] Use find and replace.
+			- [x] Apply basic formatting.
+			- [x] Justify text.
+			- [x] Import and paste multimedia.
+			- [x] Create and format simple tables.
+
+	13. Microsoft Office - Microsoft PowerPoint.
+		- Lessons.
+			- [x] [Computer Skills Basic](https://en.wikiversity.org/wiki/Computer_Skills/basic)
+			- [x] [Computer Skills Intermediate](https://en.wikiversity.org/wiki/Computer_Skills/Intermediate)
+				> As defined by the ICAS Computer Skills Assessment Framework
+		- Checklist
+			- [x] Create simple slideshow.
+			- [x] Create more complex presentations.
+
+	14. Graphics & Web Design.
+		- Lessons.
+			- [x] [Computer Skills Basic](https://en.wikiversity.org/wiki/Computer_Skills/basic)
+			- [x] [Computer Skills Intermediate](https://en.wikiversity.org/wiki/Computer_Skills/Intermediate)
+				> As defined by the ICAS Computer Skills Assessment Framework
+		- Checklist
+			- [x] Manipulate graphics.
+			- [x] Understand function of drawing tools.
+			- [x] Understand use of gradients.
+			- [x] Use crop.
+
+	15. Multimedia.
+		- Lessons.
+			- [x] [Computer Skills Basic](https://en.wikiversity.org/wiki/Computer_Skills/basic)
+			- [x] [Computer Skills Intermediate](https://en.wikiversity.org/wiki/Computer_Skills/Intermediate)
+				> As defined by the ICAS Computer Skills Assessment Framework
+		- Checklist
+			- [x] Edit audio; video.
+			- [x] Know about some components of multimedia.
+
+	16. Microsoft Office - Microsoft Excel.
+		- Lessons.
+			- [x] [Computer Skills Basic](https://en.wikiversity.org/wiki/Computer_Skills/basic)
+			- [x] [Computer Skills Intermediate](https://en.wikiversity.org/wiki/Computer_Skills/Intermediate)
+				> As defined by the ICAS Computer Skills Assessment Framework
+		- Checklist
+			- [x] Recognize structure and purpose.
+			- [x] Interpret simple spreadsheets and data.
+			- [x] Conduct a search in a simple database.
+			- [x] Make simple calculations.
+			- [x] Know how to format data.
+			- [x] Know how to draw graphs and make charts.
+			- [x] Know appropriate search terms for database searches.
+			- [x] Distinguish between spreadsheets and databases.

@@ -28,7 +28,7 @@
 - [ ] Mouse with some extra buttons.
 - [ ] Bluetooth Handsfree.
 
-- [ ] BLog best monetizing strategy.
+- [ ] Blog best monetizing strategy.
 
 - [ ] Freelance accounts and profiles.
 - [ ] Zety Resume

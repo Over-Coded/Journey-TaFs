@@ -1,0 +1,11 @@
+22) - [Licenses](https://choosealicense.com)
+    - [Documentation](https://choosealicense.com/no-permission/)
+    - [Failed Attempt](https://www.freecopyrightregistration.com)
+
+Copyright, License, Copyright Protection, Distribution.
+
+Welcome back to this long awaited review. I was under some heavy load and not able to get my head around it. More time to study I guess, anyway, licenses. Personal failure here, big one, we are talking about me waiting before publishing a single word for two weeks. Waiting for the license to be approved. Also we will talk about the real Registration of Licenses, as I learned it later by digging around.
+
+It is simple, as I was writing about the first lessons and creating the blog, suddenly Copyright struck me. So the search on how to license my work, preferably for free, and be covered from plagiarism and theft began. I must have searched like, what, 4 hours? Eventually I stumbled upon the website number three on our list. Promising free registration and copyright protection, I began editing and submitting my work for evaluation and approval. After two weeks, I repeat- Two weeks- of thumb wars, frustrated and disappointed, I saw that the last approval went down in 2016.....Due to "Recent" changes, and yeah, some serious research, the truth was out. I was looking at the first website on our list, oh my, finally. Most shocking was that, all I had to do was, create a file named "License" on GitHub and you pick a dam license. Two weeks, how does that sound right about now? Before things get un-licensed here, let us talk about the different types of, ahem, free and instant licenses. Depending on what type of sharing you would like your project to have, how the crediting (if any) will be done and if you want to allow sharing as closed source. These are some of the factors that you should consider before picking a license. Lastly and most importantly, what happens if you don't have or don't want to license your work?Well, for starters, you are a possible victim of plagiarism, meaning someone can steal your work and take credit for it. Also most people will not touch any unlicensed work. All in all, lack of license doesn't do any good, if anything.
+
+Remember, two weeks -sob- versus free instant license and copyright.

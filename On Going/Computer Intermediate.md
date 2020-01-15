@@ -1,1 +1,0 @@
-21c) - [Computer Skills Intermediate](https://en.wikiversity.org/wiki/Computer_Skills/Intermediate)
