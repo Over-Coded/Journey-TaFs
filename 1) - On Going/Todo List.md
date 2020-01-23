@@ -19,7 +19,8 @@
 - [ ] USB Thumb Drive Programming tools.
 - [ ] USB Thumb Drive OS, formatting, drivers.
 - [ ] Online Toolkit.
-- [ ] Laptop 1 & 2, format, repair and usage.
+- [x] Laptop 1 & 2, format, repair and usage.
+> One is repaired and Ubuntu is on. Other needs HDD.
 
 - [ ] Digitizer and/or Digital Notepad.
 > Royole RoWrite - Smart Writing Pad Digital Notepad

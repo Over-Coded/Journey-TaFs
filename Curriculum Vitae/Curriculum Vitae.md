@@ -10,7 +10,7 @@
 		- Checklist
 			- [x] Basic knowledge and knowledge
 			- [x] Recognize and fix common errors
-            - [x] ASCII, Unicode, Cheat sheets
+            - [x] ASCII, Unicode, Cheat-sheets
             - [x] HTML and CSS Application
             - [ ] Fonts
             - [ ] Advanced
