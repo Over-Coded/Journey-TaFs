@@ -1,7 +1,7 @@
 ## Curriculum Vitae
 
 - **Prerequisites.**
-	1. Character Encodings
+	01. Character Encodings
 		- Lessons
 			- [x] [Character Encodings - Basic #1](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 			- [x] [Character Encodings - Basic #2](https://www.w3.org/International/questions/qa-what-is-encoding)
@@ -19,16 +19,7 @@
             - [ ] Books
             - [ ] Anki
 
-	2. Licenses
-		- Lessons
-			- [x] [Licenses #1](https://choosealicense.com)
-			- [x] [Licenses #2](https://choosealicense.com/no-permission/)
-		- Checklist
-			- [x] Diffrent types of licenses & application
-			- [x] Registration and protection
-			- [ ] Legal
-			- [ ] Commerical Licenses
-	3. Git & GitHub
+	02. Git & GitHub
 		- Lessons.
 			- [x] [Git - Basic #1](https://guides.github.com/activities/hello-world/)
 			- [x] [Git - Basic #2](https://guide.freecodecamp.org/git)
@@ -37,31 +28,30 @@
 			- [x] [Git - Advanced #1](https://ohshitgit.com)
 			- [x] [Git - Advanced #2](https://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide%20#1%20-%20Git%20-%20Advaced.)
 			- [x] [Git - Advanced #3](https://lab.github.com/githubtraining/introduction-to-github)
-
 		- CheckList
 			- [x] Website usage, edits & Contributions
             - [x] Installation & Integration with OS & Code Editors.
-            - [x] Console Intastallation & Usage
-            - [x] Github Installation & Usage
+            - [x] Console Installation & Usage
+            - [x] GitHub Installation & Usage
             - [x] GitKraken Installation & Usage
-            - [x] Fail resque - Article
-            - [x] Markdown Now seperated.
+            - [x] Fail rescue - Article
+            - [x] Markdown Now separated.
             - [ ] Anki
             - [ ] Training Lab
             - [ ] Books
 
-	4. Vscode. 
+	03. VsCode. 
 		- Lessons.
 			- [ ] missing
-			- [x] [Vscode - Basic #2](https://code.visualstudio.com/docs/editor/versioncontrol)
+			- [x] [VsCode - Basic #2](https://code.visualstudio.com/docs/editor/versioncontrol)
 		- Checklist
 			- [x] Installation and usage
-            - [x] Intergration with git
+            - [x] Integration with git
             - [x] Extensions: Git pull Requests, Grammar.
 			- [ ] Courses
             - [ ] Manual, more of all
 
-	5. Markdown - Git Flavored Markdown - GFM.
+	04. Markdown - Git Flavored Markdown - GFM.
 		- Lessons
 			- [x] [Markdown - Basics #1](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 			- [x] [Markdown - Advanced #3](https://github.github.com/gfm/)
@@ -70,7 +60,7 @@
 			- [x] [Markdown - Basics #4](https://guides.github.com/features/mastering-markdown/)
 			- [x] [Markdown - Advanced #1](https://help.github.com/en/github/managing-your-work-on-github/about-task-lists)
 			- [x] [Markdown - Advanced #2](https://stackoverflow.com/questions/31694871/markdown-multi-checkbox-in-one-line)
-		- Obtained
+		- Checklist
 			- [x] Basic tags
 			- [x] Lists, Nested Lists
 			- [x] Formatting
@@ -81,7 +71,7 @@
 			- [ ] Java Markdown
 			- [ ] Ruby? Markdown
 
-	6. Writing
+	05. Writing
 		- Lessons
 			- [x] [Creative Writing - Basic #1](https://www.masterclass.com/classes/margaret-atwood-teaches-creative-writing/chapters/getting-started-as-a-writer)
 		- Obtained
@@ -97,7 +87,7 @@
 			- [ ] Practice
             - [ ] Courses
             - [ ] Books
-	7. Typing
+	06. Typing
 		- Lessons
 			- [x] [Online Lessons - #1](https://www.typing.com/student/achievements)
 		- Checklist
@@ -116,16 +106,14 @@
 			- [ ] Errors
 			- [ ] More Practice
 
-	8. Others.
+	07. Others.
 		- Lessons.
 			- [x] [What you need before you start Programming](Link%20to%20be%20added)
-			- [x] [Readme Guide](https://guides.github.com/features/wikis/)
 		- Checklist
-			- [x] Readme Basic Structure, layout and formatting.
 			- [x] Knowledge of planning and structuring an goal.
 			- [x] Motivational Support
 	
-	9. Online, Socials, Career.
+	08. Online, Socials, Career.
 		- Lessons.
 			- [x] Viral blog writing 101 by Wolken Navarro.
 		- Checklist
@@ -134,7 +122,7 @@
 			- [x] Headlines, keywords, tags.
 			- [x] How to research and support main idea.
 
-	10. Internet Skills.
+	09. Internet Skills.
 		- Lessons.
 			- [x] [Computer Skills Basic](https://en.wikiversity.org/wiki/Computer_Skills/basic)
 			- [x] [Computer Skills Intermediate](https://en.wikiversity.org/wiki/Computer_Skills/Intermediate)
@@ -151,7 +139,7 @@
 			- [x] Adding Multimedia to email.
 			- [ ] Specialized Courses.
 	
-	11. Computers, Software & Hardware.
+	10. Computers, Software & Hardware.
 		- Lessons.
 			- [x] [Computer Skills Basic](https://en.wikiversity.org/wiki/Computer_Skills/basic)
 			- [x] [Computer Skills Intermediate](https://en.wikiversity.org/wiki/Computer_Skills/Intermediate)
@@ -166,7 +154,7 @@
 			- [x] Know basic network concepts.
 			- [x] Modern Terminology
 
-	12. Microsoft Office - Microsoft Word.
+	11. Microsoft Office - Microsoft Word.
 		- Lessons.
 			- [x] [Computer Skills Basic](https://en.wikiversity.org/wiki/Computer_Skills/basic)
 			- [x] [Computer Skills Intermediate](https://en.wikiversity.org/wiki/Computer_Skills/Intermediate)
@@ -181,7 +169,7 @@
 			- [x] Import and paste multimedia.
 			- [x] Create and format simple tables.
 
-	13. Microsoft Office - Microsoft PowerPoint.
+	12. Microsoft Office - Microsoft PowerPoint.
 		- Lessons.
 			- [x] [Computer Skills Basic](https://en.wikiversity.org/wiki/Computer_Skills/basic)
 			- [x] [Computer Skills Intermediate](https://en.wikiversity.org/wiki/Computer_Skills/Intermediate)
@@ -190,7 +178,7 @@
 			- [x] Create simple slideshow.
 			- [x] Create more complex presentations.
 
-	14. Graphics & Web Design.
+	13. Graphics & Web Design.
 		- Lessons.
 			- [x] [Computer Skills Basic](https://en.wikiversity.org/wiki/Computer_Skills/basic)
 			- [x] [Computer Skills Intermediate](https://en.wikiversity.org/wiki/Computer_Skills/Intermediate)
@@ -201,7 +189,7 @@
 			- [x] Understand use of gradients.
 			- [x] Use crop.
 
-	15. Multimedia.
+	14. Multimedia.
 		- Lessons.
 			- [x] [Computer Skills Basic](https://en.wikiversity.org/wiki/Computer_Skills/basic)
 			- [x] [Computer Skills Intermediate](https://en.wikiversity.org/wiki/Computer_Skills/Intermediate)
@@ -210,7 +198,7 @@
 			- [x] Edit audio; video.
 			- [x] Know about some components of multimedia.
 
-	16. Microsoft Office - Microsoft Excel.
+	15. Microsoft Office - Microsoft Excel.
 		- Lessons.
 			- [x] [Computer Skills Basic](https://en.wikiversity.org/wiki/Computer_Skills/basic)
 			- [x] [Computer Skills Intermediate](https://en.wikiversity.org/wiki/Computer_Skills/Intermediate)
@@ -224,3 +212,26 @@
 			- [x] Know how to draw graphs and make charts.
 			- [x] Know appropriate search terms for database searches.
 			- [x] Distinguish between spreadsheets and databases.
+
+	16. Open Source Concepts & Guidelines.
+		- Lessons
+			- [x] [Open Source Guide](https://opensource.guide/)
+			- [x] [Readme Guide](https://guides.github.comfeatures/wikis/)
+			- [x] [Licenses #1](https://choosealicense.com)
+			- [x] [Licenses #2](https://choosealicense.com/no-permission/)
+		- Checklist
+			- [x] Different types of licenses & application
+			- [x] Registration and protection
+			- [x] Readme Basic Structure, layout and formatting.
+			- [x] Contribution etiquette.
+			- [x] Creating open Source projects.
+			- [x] Building & managing communities.
+			- [x] Project Maintenance.
+			- [x] User moderation.
+			- [x] Code of conduct.
+			- [x] Legal Open Source Side.
+			- [ ] Legal side and, or commercial  licenses.
+			- [ ] Metrics, Analytics
+			- [ ] Getting Paid for open source.
+			- [ ] Open Source Leadership and governance.
+
