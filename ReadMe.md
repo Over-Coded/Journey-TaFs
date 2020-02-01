@@ -2,11 +2,11 @@
 
 *Welcome all to my personal Education log.*
     
-    Allow me to elaborate so you can understand the scope of this Project.  My name is Alexander and I am your host in this life changing journey. I am 30 years old having studied Computer hardware and worked as a freelance, repair-man, on call. So what is this? This is an self created Curriculum of education, spanning from web articles to video courses and books, even emails from newsletter's. Written from a self perspective, hands on point of view, creating a Journey.  
+   Allow me to elaborate so you can understand the scope of this Project.  My name is Alexander and I am your host in this life changing journey. I am 30 years old having studied Computer hardware and worked as a freelance, repair-man, on call. So what is this? This is an self created Curriculum of education, spanning from web articles to video courses and books, even emails from newsletter's. Written from a self perspective, hands on point of view, creating a Journey.  
 
-    Hence fore creating:"The Journey to a Full Stack", from full nada that it. Summing it all up with an article, review or personal essay, it's read-review-write. Now recording it all in, let us say, a webpage or blog? Now that is the core, what ties it all together. A live portfolio, a guide to all that need a different perspective in learning, etc.
+   Hence fore creating:"The Journey to a Full Stack", from full nada that it. Summing it all up with an article, review or personal essay, it's read-review-write. Now recording it all in, let us say, a webpage or blog? Now that is the core, what ties it all together. A live portfolio, a guide to all that need a different perspective in learning, etc.
     
-    So Welcome to the journey, my only hope is that you will enjoy reading it, as much as I enjoy writing it. 
+   So Welcome to the journey, my only hope is that you will enjoy reading it, as much as I enjoy writing it. 
 
 *Contributions*
 
