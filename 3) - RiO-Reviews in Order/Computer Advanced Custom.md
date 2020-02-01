@@ -14,7 +14,7 @@ The continuation of the first part. A lot more technical but is understandable d
 
 [Networking #1- HTTP, URL](https://code.tutsplus.com/tutorialshttp-the-protocol-every-web-developer-must-know-part-1--net-31177)
 
-HTTP is the foundation of the modern web. Understanding it can help you in the long term, namely in restful API services. And when wanting to connect end to end as simple as possible. We have 2 parts here, one with basics of HTTP and another one with more specifics. I cannot find the second part though, it might have been taken down. Okay then, it is not simple and not short, but it covers the subject very well. I had it saved in the pocket as well for a future re-read. Moving on to the important stuff, we have an explanation of what the http's stateless protocol is, and how it works. Also decrypting what a URL is and what it stands for. Leaving us with the request, and the infamous 404 error code, closing with all the rest error codes as well. As I said earlier, neither simple, nor short. Enjoy! and Bookmark it under cheat sheets.
+HTTP is the foundation of the modern web. Understanding it can help you in the long term, namely in restful API services. And when wanting to connect end to end as simple as possible. We have 2 parts here, one with basics of HTTP and another one with more specifics. I cannot find the second part though, it might have been taken down. Okay then, it is not simple and not short, but it covers the subject very well. I had it saved in the pocket as well for a future re-read. Moving on to the important stuff, we have an explanation of what the HTTP stateless protocol is, and how it works. Also decrypting what a URL is and what it stands for. Leaving us with the request, and the infamous 404 error code, closing with all the rest error codes as well. As I said earlier, neither simple, nor short. Enjoy! and Bookmark it under cheat sheets.
 
 [Networking #1- TCP/IP IMTP Domains](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 How the internet works.
@@ -40,4 +40,4 @@ The four are the only learning material, I could find from my resources and a bi
 [Open Source](https://opensource.guide/) 
 Open Source Guides | Learn how to launch and grow your project.: Learn how to launch and grow your project.
 
-his is going to be a very small review for a detailed guide to all your open source needs. It should supplement us with enough material, combining it with the readme and license guides, for a new section called Open Source. So take your time, read it through, every chapter and topic. Think of it as a small read over Coffee in one of your mornings.
+All of your open source needs should be covered here. Quite decent, excellent I might add. It is structured very nicely and detailed as hell. This article plus the readme and licensing guides are, I say more than enough to bring us up to speed. This should cover us in the Advanced department.
