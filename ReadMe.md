@@ -1,4 +1,4 @@
-## **Journey to Full Stack**
+**Journey to Full Stack**
 
 *Welcome all to my personal Education log.*
     
