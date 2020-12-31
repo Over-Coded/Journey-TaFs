@@ -1,0 +1,99 @@
+<!doctype html>
+
+    <html lang="en">
+
+        <head>
+            <meta charset="utf-8">
+            <meta name="description" content="FCC HTML Tag Reference">
+            <meta name="author" content="JourneyTafs">
+            <link rel="stylesheet" href="#">
+            <meta name="keywords" content="HTML, Reference, tags">
+            <title>Personal HTML Reference Guide</title>
+        </head>
+
+        <body>
+            <script src="js/scripts.js"></script>
+
+            <header>
+                <h2>HTML Reference</h2>
+            </header>
+              <hr>
+              <h1>This is heading number 1</h1>
+              <h2>This is heading number 2</h2>
+              <h3>This is heading number 3</h3>
+              <h4>This is heading number 4</h4>
+              <h5>This is heading number 5</h5>
+              <h6>This is heading number 6</h6>
+              <hr>
+              <p>This is a paragraph</p>
+              <hr>
+
+              <p>in order to create a line inside the paragraph<br>
+                you need to use the br Element.
+                Or the hr Element <hr>
+                To create a horizontial line in your Document.
+              </p>
+
+              <!--
+                This is a comment. 
+                Comments are not displayed in the browser
+              -->
+              <hr>
+              <ol>
+                <li>This is an</li>
+                <li>Ordered</li>
+                <li>List</li>
+              </ol>
+              
+              <ul>
+                <li>This is an</li>
+                <li>Unordered</li>
+                <li>List</li>
+              </ul>
+              <hr>
+              The <code>code element</code> example
+                <br>
+              The <mark>mark element</mark> example
+                <br>
+              The <small>small element</small> example
+                <br>
+              The <sub>sub element</sub> example
+                <br>
+              The <sup>sup element</sup> example
+                <br>
+                <hr>
+                <a href="#">This is a blank external link</a><br>
+                <a href="#" target="_blank">This is a blank external link opening on a new tab</a><br>
+                <a href="#footer">This is a Jump to botom internal link</a><br>
+                <hr>
+                <h3>Images and Radio inputs</h3>
+                <br>
+                <a href="#">
+                  <img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back.">
+                  </a>
+                  <p>This an image nested inside the anchor</p>
+                  <br>
+                  <input type="radio" name="radio"> Radio button
+                  <input type="checkbox" name="check"> Checkbox Button
+                  <input type="text" value="Text Input Default Text">
+                  <br>
+                  <br>
+                  <p>Base Form for inputing data. Checked Boxes, Requirements
+                    and names with vallues.
+                  </p>
+                  <form action="https://freecatphotoapp.com/submit-cat-photo">
+                    <label for="indoor"><input id="indoor" type="radio" name="indoor-outdoor" value="indoor" checked> Indoor</label>
+                    <label for="outdoor"><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor"> Outdoor</label><br>
+                    <label for="loving"><input id="loving" type="checkbox" name="personality" value="loving" checked> Loving</label>
+                    <label for="lazy"><input id="lazy" type="checkbox" name="personality" value="lazy"> Lazy</label>
+                    <label for="energetic"><input id="energetic" type="checkbox" name="personality" value="energetic"> Energetic</label><br>
+                    <input type="text" placeholder="cat photo URL" required>
+                    <button type="submit">Submit</button>
+                   </form>
+
+            <footer id="footer">
+                Inspired from FreeCodeCamp, by JourneyTafs.
+            </footer>
+
+        </body>
+    </html>
