@@ -1,0 +1,13 @@
+1. Sololearn HTML Class.
+
+2. Sololearn HTML5.
+
+3. Flow
+After the first two sections, it really gave you to much in to little time. Compressing everything. It could really have it gone slower. In the HTML5 section, you really need to take it slow, and steady, cause the terms and coding is reallly tght,
+
+4. Projects
+As you progress through the lessons, you will create 4 pieces of a larger page, called "My Blog". Not bad, but explainations of code, could have been better. Also needs alot of rectifing, in terms of semantics, in invalid tags. Div beign one of them.
+
+5. My second lesson, seemed easy at first, but it wasn't. It quickly became to much. With vector graphicks, apis and a ton of unknown terms. Yet after comnpleting it also twice, it was a joy and a pain alltogether.
+
+This helped me Build more knowledge upon HTML Tags. Thus crewating the second HTML Reference page.
