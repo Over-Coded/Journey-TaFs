@@ -1,0 +1,133 @@
+.blue-text {
+    color: blue;
+}
+.verdana {
+    font-family: verdana;
+}
+.courier {
+    font-family: courier;
+}
+.font200 {
+    font-size: 200%;
+}
+.font23 {
+    font-size: 23px;
+}
+.textcenter {
+    text-align: center;
+}
+.textright {
+    text-align: right;
+}
+.textleft {
+    text-align: left;
+}
+.tomatobg {
+    background-color: tomato;
+}
+
+.orangebg {
+    background-color: Orange;
+}
+
+.Dodgerbluebg {
+    background-color: DodgerBlue;
+}
+
+.mediumseagreenbg {
+    background-color: MediumSeaGreen;
+}
+
+.graybg {
+    background-color: Gray;
+}
+
+.slatebluebg {
+    background-color: SlateBlue;
+}
+
+.violetbg {
+    background-color: Violet;
+}
+
+.lightgraybg{
+    background-color: LightGray;
+}
+
+.bordertomato {
+    border: 2px solid Tomato;
+}
+
+.borderdodger {
+    border: 2px solid DodgerBlue;
+}
+
+.borderviolet {
+    border: 2px solid Violet;
+}
+.rgb {
+    background-color:rgb(255, 99, 71);
+}
+.hex {
+    background-color:#ff6347;
+}
+.hsl1 {
+    background-color:hsl(9, 100%, 64%);
+}
+
+.hsl2 {
+    background-color:rgba(255, 99, 71, 0.5);
+}
+
+.hsl3 {
+    background-color:hsla(9, 100%, 64%, 0.5);
+}
+
+.border {
+    border: 2px solid powderblue;
+}
+
+.padding {
+    border: 2px solid powderblue;
+    padding: 30px;
+}
+
+.margin {
+    border: 2px solid powderblue;
+    margin: 50px;
+}
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
